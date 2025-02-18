@@ -1,6 +1,6 @@
 ## Howdy 👋
 
-_Note: My GitHub Contribution Grid became less green after June 2024 as my organization assigned me a separate [GitHub Enterprise Managed User account](https://docs.github.com/en/enterprise-cloud@latest/admin/managing-iam/understanding-iam-for-enterprises/about-enterprise-managed-users) to perform my job duties._
+_Note: My GitHub Contribution Grid became less green after June 2024 as my organization assigned me a separate [GitHub Enterprise Managed User account](https://docs.github.com/en/enterprise-cloud@latest/admin/managing-iam/understanding-iam-for-enterprises/about-enterprise-managed-users) to perform my job duties. [Learn more about GitHub usage in Enterprise and validation from one of our engineering managers](https://www.linkedin.com/posts/activity-7295441534970187776-Hvrj?utm_source=share&utm_medium=member_desktop&rcm=ACoAACP4XaIBNbrvEoARGjnTQZf_ksINhWQ5qlU)._
 
 I am a present and engaged teammate who thrives on trust, brings high agency to work, and finds learning opportunities in every experience. The following is a recap of my current professional experience:
 
