@@ -4,10 +4,6 @@ _Note: My GitHub Contribution Grid became less green after June 2024 as my organ
 
 I am a present and engaged teammate who thrives on trust, brings high agency to work, and finds learning opportunities in every experience. The following is a recap of my current professional experience:
 
-- 8+ years of web development experience building and securing websites, Single-Page Applications (SPAs), web applications, and API services.
+8+ years of experience building and shipping full-stack web applications that balance security, user experience, and accessibility, leading cross-functional projects with a bias for action, and growing teams through mentorship and support. Proficient with frontend development using JavaScript/Typescript frameworks (React, Next.js), advanced state management patterns (state machines, Zustand, Redux), and backend development with API design (Express.js, Node.js, MongoDB).
 
-- Frontend: Javascript, TypeScript, React, Next.js, state management with libraries like Zustand and using state machines with RxJS. Familiar with Vue and Angular.
-- Backend: Express.js, MongoDB, API design. Familiar with SQL databases.
-- Security and Quality: Auth systems, web security, testing with libraries like Jest and Playwright. Security and compliance tools like Snyk, Semgrep, Socket.dev, and FOSSA.
-- Developer Experience: Documentation, SDKs, technical education.
-- Engineering Leadership: Technical planning, cross-functional collaboration, mentoring.
+I am committed to continuous professional development. I am currently advancing my backend skills by learning Go, Kotlin, and PostgreSQL while also refining my mobile development skills by using Expo/React Native on side projects. I've been working on an mobile app to learn Mandarin using geolocation data.
